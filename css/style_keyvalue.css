@@ -335,12 +335,6 @@ input[id=searchCrime] {
 
 .felony a {
     color: #ffffff;
-    text-shadow:
-        1px 1px 0 #000,
-        -1px -1px 0 #000,
-        1px -1px 0 #000,
-        -1px 1px 0 #000,
-        1px 1px 0 #000;
 }
 
 .misdemeanor {
@@ -349,12 +343,6 @@ input[id=searchCrime] {
 
 .misdemeanor a {
     color: #ffffff;
-    text-shadow:
-        1px 1px 0 #000,
-        -1px -1px 0 #000,
-        1px -1px 0 #000,
-        -1px 1px 0 #000,
-        1px 1px 0 #000;
 }
 
 .judge {
@@ -372,12 +360,6 @@ input[id=searchCrime] {
     border: none;
     padding: 16px;
     color: white;
-    text-shadow:
-        2px 2px 0 #000,
-        -1px -1px 0 #000,
-        1px -1px 0 #000,
-        -1px 1px 0 #000,
-        1px 1px 0 #000;
     background-color: #23548C;
 }
 
